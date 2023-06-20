@@ -1,4 +1,4 @@
-# 2021 Phyton 3 programming by Michigan University
+# 2021 Python 3 Programming by Michigan University
 
 https://www.coursera.org/account/accomplishments/specialization/DTSL8F5VWCQ7
 
